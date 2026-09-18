@@ -1,0 +1,12 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/chestplate/light_blue",
+  "display": {
+    "name": "Wear a Light Blue Leather Chestplate",
+    "item": "minecraft:leather_chestplate",
+    "itemComponents": {
+      "minecraft:dyed_color":3847130
+    },
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Deal 400 Damage",
+    "item": "minecraft:netherite_sword",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["deal_damage"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:deal_damage"
+  },
+  "statType": "minecraft:custom",
+  "statName": "minecraft:damage_dealt",
+  "min": 4000
+}

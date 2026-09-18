@@ -1,0 +1,12 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/leggings/white",
+  "display": {
+    "name": "Wear White Leather Leggings",
+    "item": "minecraft:leather_leggings",
+    "itemComponents": {
+      "minecraft:dyed_color":16383998
+    },
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:die_magic",
+  "display": {
+    "name": "Die to Magic",
+    "item": "minecraft:structure_void",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_magic"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/magic"
+  }
+}

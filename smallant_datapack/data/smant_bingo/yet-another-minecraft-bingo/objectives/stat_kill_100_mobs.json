@@ -1,0 +1,15 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill 100 mobs",
+    "item": "minecraft:diamond_sword",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_100"] }
+	},
+    "decoration": "MULTI_ITEM",
+	"image": "smant_bingo:kill/100"
+  },
+  "statType": "minecraft:custom",
+  "statName": "minecraft:mob_kills",
+  "min": 100
+}

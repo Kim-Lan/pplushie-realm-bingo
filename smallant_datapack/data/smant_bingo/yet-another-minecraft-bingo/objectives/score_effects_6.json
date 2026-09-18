@@ -1,0 +1,15 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Get %min% Effects at Once",
+    "item": "minecraft:potion",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["effect_6"] }
+	},
+    "decoration": "MULTI_ITEM",
+	"image": "smant_bingo:effect/6"
+  },
+  "scoreboardName": "effects",
+  "min": 6,
+  "permanent": true
+}

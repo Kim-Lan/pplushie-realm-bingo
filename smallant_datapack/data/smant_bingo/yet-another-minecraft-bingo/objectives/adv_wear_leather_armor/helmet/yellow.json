@@ -1,0 +1,12 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/yellow",
+  "display": {
+    "name": "Wear a Yellow Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color":16701501
+    },
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Eat %min% Unique Foods",
+    "item": "minecraft:apple",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["20_foods"] }
+	},
+    "decoration": "MULTI_ITEM",
+	"image": "smant_bingo:20_foods"
+  },
+  "scoreboardName": "foods",
+  "min": 20
+}

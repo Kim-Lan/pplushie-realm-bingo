@@ -1,0 +1,15 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": "All Horse Armors",
+    "item": "minecraft:leather_horse_armor",
+    "decoration": "MULTI_ITEM"
+  },
+  "objectives": [
+    "minecraft:leather_horse_armor",
+    "minecraft:copper_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:golden_horse_armor",
+    "minecraft:diamond_horse_armor"
+  ]
+}

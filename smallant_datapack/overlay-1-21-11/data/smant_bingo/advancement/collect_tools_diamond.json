@@ -1,0 +1,35 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "collect": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:diamond_hoe"
+          },
+          {
+            "items": "minecraft:diamond_pickaxe"
+          },
+          {
+            "items": "minecraft:diamond_axe"
+          },
+          {
+            "items": "minecraft:diamond_sword"
+          },
+          {
+            "items": "diamond_shovel"
+          },
+		  {
+			"items": "minecraft:diamond_spear"
+		  }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "collect"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Kill %min% Undead Mobs",
+    "item": "minecraft:wooden_sword",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_undead"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/undead"
+  },
+  "scoreboardName": "undead_kills",
+  "min": 30
+}

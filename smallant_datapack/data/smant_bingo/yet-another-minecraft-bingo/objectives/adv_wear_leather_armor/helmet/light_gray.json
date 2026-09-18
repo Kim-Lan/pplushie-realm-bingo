@@ -1,0 +1,12 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/light_gray",
+  "display": {
+    "name": "Wear a Light Gray Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color":10329495
+    },
+    "decoration": "NONE"
+  }
+}

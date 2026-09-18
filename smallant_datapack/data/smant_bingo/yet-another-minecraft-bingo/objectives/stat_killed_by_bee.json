@@ -1,0 +1,15 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Die to a Bee",
+    "item": "minecraft:structure_void",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_bee"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/bee"
+  },
+  "statType": "minecraft:killed_by",
+  "statName": "minecraft:bee",
+  "min": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_bad_omen",
+  "display": {
+    "name": "Get the Bad Omen Effect",
+    "item": "minecraft:milk_bucket",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["effect_bad_omen"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:effect/bad_omen"
+  }
+}

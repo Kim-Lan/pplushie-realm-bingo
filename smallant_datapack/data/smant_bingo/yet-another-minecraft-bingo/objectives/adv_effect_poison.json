@@ -1,0 +1,13 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_poison",
+  "display": {
+    "name": "Get the Poison Effect",
+    "item": "minecraft:milk_bucket",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["effect_poison"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:effect/poison"
+  }
+}

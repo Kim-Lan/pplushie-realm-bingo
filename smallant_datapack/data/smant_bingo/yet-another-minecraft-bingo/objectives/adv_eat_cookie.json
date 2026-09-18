@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:consume_cookie",
+  "display": {
+    "name": "Eat a Cookie",
+    "item": "minecraft:cookie",
+    "decoration": "ADVANCEMENT"
+  }
+}

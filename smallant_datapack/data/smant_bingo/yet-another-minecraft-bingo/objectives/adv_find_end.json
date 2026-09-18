@@ -1,0 +1,8 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:end/root",
+  "display": {
+    "decoration": "ADVANCEMENT"
+  },
+  "conflictsWith": []
+}

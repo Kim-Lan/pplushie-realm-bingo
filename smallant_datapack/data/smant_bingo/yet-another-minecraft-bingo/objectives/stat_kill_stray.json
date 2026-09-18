@@ -1,0 +1,15 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill A Stray",
+    "item": "minecraft:wooden_sword",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_stray"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/stray"
+  },
+  "statType": "minecraft:killed",
+  "statName": "minecraft:stray",
+  "min": 1
+}

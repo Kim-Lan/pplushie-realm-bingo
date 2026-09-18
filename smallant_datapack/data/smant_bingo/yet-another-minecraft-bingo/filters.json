@@ -1,0 +1,19 @@
+{
+  "filters": [
+    {
+      "id": "smallant",
+      "name": "SmallAnt Default",
+      "value": "+smallant"
+    },
+    {
+      "id": "smallant_random",
+      "name": "SmallAnt Random",
+      "value": "+smant_random"
+    },
+    {
+      "id": "pplushie_realm",
+      "name": "pplushie realm",
+      "value": "+smallant +in_overworld -tedious -unobtainable -in_the_nether -in_the_end -needs_silk_touch"
+    }
+  ]
+}

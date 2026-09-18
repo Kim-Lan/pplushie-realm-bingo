@@ -1,0 +1,32 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "collect": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:stone_hoe"
+          },
+          {
+            "items": "minecraft:stone_pickaxe"
+          },
+          {
+            "items": "minecraft:stone_axe"
+          },
+          {
+            "items": "minecraft:stone_sword"
+          },
+          {
+            "items": "stone_shovel"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "collect"
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/helmet/green",
+  "display": {
+    "name": "Wear a Green Leather Helmet",
+    "item": "minecraft:leather_helmet",
+    "itemComponents": {
+      "minecraft:dyed_color":6192150
+    },
+    "decoration": "NONE"
+  }
+}

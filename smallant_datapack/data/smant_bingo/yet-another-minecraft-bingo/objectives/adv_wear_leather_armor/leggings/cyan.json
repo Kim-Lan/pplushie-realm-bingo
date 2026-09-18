@@ -1,0 +1,12 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/leggings/cyan",
+  "display": {
+    "name": "Wear Cyan Leather Leggings",
+    "item": "minecraft:leather_leggings",
+    "itemComponents": {
+      "minecraft:dyed_color":1481884
+    },
+    "decoration": "NONE"
+  }
+}

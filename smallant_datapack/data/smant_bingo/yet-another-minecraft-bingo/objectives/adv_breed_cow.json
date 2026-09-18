@@ -1,0 +1,13 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:breed_cow",
+  "display": {
+    "name": "Breed a Cow",
+    "item": "minecraft:cow_spawn_egg",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["breed_cow"]}
+	},
+	"image": "smant_bingo:breed/cow",
+    "decoration": "NONE"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:adventure/sniper_duel",
+  "display": {
+    "decoration": "ADVANCEMENT"
+  },
+  "conflictsWith": []
+}

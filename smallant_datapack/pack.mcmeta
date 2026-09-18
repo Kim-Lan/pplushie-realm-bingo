@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "pack_format": 88,
+	"min_format": 88,
+	"max_format": 200,
+    "description": "SmallAnt Lockout Port v1.1 by AverageFlame"
+  },
+  "overlays": {
+	"entries": [
+		{
+			"min_format": 94,
+			"max_format": 200,
+			"directory": "overlay-1-21-11"
+		}
+	]
+  }
+}

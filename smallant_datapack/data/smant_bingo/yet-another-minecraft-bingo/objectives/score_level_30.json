@@ -1,0 +1,15 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Reach Level %min%",
+    "item": "minecraft:experience_bottle",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["level_30"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:level_30"
+  },
+  "scoreboardName": "currentxp",
+  "min": 30,
+  "permanent": true
+}

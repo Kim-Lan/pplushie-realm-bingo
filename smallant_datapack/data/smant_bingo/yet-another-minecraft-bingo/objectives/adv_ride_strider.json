@@ -1,0 +1,8 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:nether/ride_strider",
+  "display": {
+    "decoration": "ADVANCEMENT"
+  },
+  "conflictsWith": []
+}

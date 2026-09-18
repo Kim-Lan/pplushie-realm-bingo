@@ -1,0 +1,8 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:story/follow_ender_eye",
+  "display": {
+    "decoration": "ADVANCEMENT"
+  },
+  "conflictsWith": []
+}

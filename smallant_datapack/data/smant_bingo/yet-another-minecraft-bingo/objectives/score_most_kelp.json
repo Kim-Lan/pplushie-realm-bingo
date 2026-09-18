@@ -1,0 +1,14 @@
+{
+  "type": "scoreboard",
+  "display": {
+    "name": "Have the Most Dried Kelp",
+    "item": "minecraft:dried_kelp",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["most_kelp"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:most_kelp"
+  },
+  "scoreboardName": "mostKelp",
+  "min": 1
+}

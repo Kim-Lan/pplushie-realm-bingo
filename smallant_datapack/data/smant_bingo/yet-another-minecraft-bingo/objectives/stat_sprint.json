@@ -1,0 +1,15 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Sprint 1km",
+    "item": "minecraft:golden_boots",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["sprint"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:sprint"
+  },
+  "statType": "minecraft:custom",
+  "statName": "minecraft:sprint_one_cm",
+  "min": 100000
+}

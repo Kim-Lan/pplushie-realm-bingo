@@ -1,0 +1,35 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "collect": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:wooden_hoe"
+          },
+          {
+            "items": "minecraft:wooden_pickaxe"
+          },
+          {
+            "items": "minecraft:wooden_axe"
+          },
+          {
+            "items": "minecraft:wooden_sword"
+          },
+          {
+            "items": "wooden_shovel"
+          },
+		  {
+			"items": "minecraft:wooden_spear"
+		  }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "collect"
+    ]
+  ]
+}

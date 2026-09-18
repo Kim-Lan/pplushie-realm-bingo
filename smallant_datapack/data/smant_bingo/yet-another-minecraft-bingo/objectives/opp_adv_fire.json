@@ -1,0 +1,13 @@
+{
+  "type": "opponent",
+  "display": {
+    "name": "Opponent Catches Fire",
+    "item": "minecraft:campfire",
+	"itemComponents": {
+		"minecraft:custom_model_data": {"strings": ["opp_fire"]}
+	},
+    "decoration": "FORBIDDEN",
+	"image": "smant_bingo:opp/fire"
+  },
+  "objective": "smant_bingo:opp_fire"
+}

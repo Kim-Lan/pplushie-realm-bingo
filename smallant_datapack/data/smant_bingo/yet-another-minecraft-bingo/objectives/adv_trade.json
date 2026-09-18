@@ -1,0 +1,8 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:adventure/trade",
+  "display": {
+    "decoration": "ADVANCEMENT"
+  },
+  "conflictsWith": []
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "find": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "location": {
+            "biomes": [
+              "minecraft:badlands",
+              "minecraft:eroded_badlands",
+              "minecraft:wooded_badlands"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "find"
+    ]
+  ]
+}

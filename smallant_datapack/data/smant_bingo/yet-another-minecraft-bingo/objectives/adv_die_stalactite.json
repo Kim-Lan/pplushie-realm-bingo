@@ -1,0 +1,13 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:die_stalactite",
+  "display": {
+    "name": "Die to a Falling Stalactite",
+    "item": "minecraft:structure_void",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["die_dripstone"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:die/dripstone"
+  }
+}

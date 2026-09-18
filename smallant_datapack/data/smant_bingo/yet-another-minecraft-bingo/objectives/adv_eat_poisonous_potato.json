@@ -1,0 +1,9 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:consume_poisonous_potato",
+  "display": {
+    "name": "Eat a Poisonous Potato",
+    "item": "minecraft:poisonous_potato",
+    "decoration": "ADVANCEMENT"
+  }
+}

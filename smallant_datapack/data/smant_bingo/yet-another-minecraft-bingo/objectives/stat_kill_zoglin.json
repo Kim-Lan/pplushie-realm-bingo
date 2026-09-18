@@ -1,0 +1,15 @@
+{
+  "type": "stats",
+  "display": {
+    "name": "Kill A Zoglin",
+    "item": "minecraft:wooden_sword",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_zoglin"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/zoglin"
+  },
+  "statType": "minecraft:killed",
+  "statName": "minecraft:zoglin",
+  "min": 1
+}

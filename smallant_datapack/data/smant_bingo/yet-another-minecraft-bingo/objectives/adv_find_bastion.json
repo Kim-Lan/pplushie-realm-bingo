@@ -1,0 +1,8 @@
+{
+  "type": "advancement",
+  "advancement": "minecraft:nether/find_bastion",
+  "display": {
+    "decoration": "ADVANCEMENT"
+  },
+  "conflictsWith": []
+}

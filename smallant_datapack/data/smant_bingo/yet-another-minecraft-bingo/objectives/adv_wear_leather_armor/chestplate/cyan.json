@@ -1,0 +1,12 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:wear_leather_armor/chestplate/cyan",
+  "display": {
+    "name": "Wear a Cyan Leather Chestplate",
+    "item": "minecraft:leather_chestplate",
+    "itemComponents": {
+      "minecraft:dyed_color":1481884
+    },
+    "decoration": "NONE"
+  }
+}

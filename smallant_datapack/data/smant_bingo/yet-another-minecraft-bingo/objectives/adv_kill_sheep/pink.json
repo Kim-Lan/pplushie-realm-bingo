@@ -1,0 +1,13 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:kill_sheep/pink",
+  "display": {
+    "name": [{"text": "Kill a "},{"text": "Pink Sheep","color": "#F38BAA"}],
+    "item": "minecraft:wooden_sword",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["kill_sheep_pink"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:kill/sheep/pink"
+  }
+}

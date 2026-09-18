@@ -1,0 +1,13 @@
+{
+  "type": "advancement",
+  "advancement": "smant_bingo:effect_levitation",
+  "display": {
+    "name": "Get the Levitation Effect",
+    "item": "minecraft:milk_bucket",
+	"itemComponents": {
+		"minecraft:custom_model_data": { "strings": ["effect_levitation"] }
+	},
+    "decoration": "NONE",
+	"image": "smant_bingo:effect/levitation"
+  }
+}

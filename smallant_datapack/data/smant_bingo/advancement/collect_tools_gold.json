@@ -1,0 +1,32 @@
+{
+  "parent": "smant_bingo:begin",
+  "criteria": {
+    "collect": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:golden_hoe"
+          },
+          {
+            "items": "minecraft:golden_pickaxe"
+          },
+          {
+            "items": "minecraft:golden_axe"
+          },
+          {
+            "items": "minecraft:golden_sword"
+          },
+          {
+            "items": "golden_shovel"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "collect"
+    ]
+  ]
+}
