@@ -102,6 +102,7 @@
         "minecraft:strider_spawn_egg",
         "minecraft:structure_block",
         "minecraft:structure_void",
+        "minecraft:sulfur_cube_spawn_egg",
         "minecraft:tadpole_spawn_egg",
         "minecraft:tall_grass",
         "minecraft:test_block",
@@ -128,9 +129,7 @@
         "minecraft:zombie_villager_spawn_egg",
         "minecraft:zombified_piglin_spawn_egg",
         "smant_bingo:adv_sleep_alone",
-		"smant_bingo:opp_crafting_table",
-        "smant_bingo:adv_kill_player",
-        "smant_bingo:adv_trade"
+		"smant_bingo:opp_crafting_table"
     ],
     "replace": false
 }
