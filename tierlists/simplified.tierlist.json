@@ -51,7 +51,6 @@
         "minecraft:cherry_log",
         "minecraft:cherry_planks",
         "minecraft:cherry_sapling",
-        "minecraft:cinnabar",
         "minecraft:cocoa_beans",
         "minecraft:comparator",
         "minecraft:cookie",
@@ -96,9 +95,6 @@
         "minecraft:pale_oak_sapling",
         "minecraft:pink_petals",
         "minecraft:poisonous_potato",
-        "minecraft:poplar_log",
-        "minecraft:poplar_planks",
-        "minecraft:poplar_sapling",
         "minecraft:prismarine",
         "minecraft:prismarine_bricks",
         "minecraft:prismarine_crystals",
@@ -116,8 +112,6 @@
         "minecraft:sniffer_egg",
         "minecraft:spectral_arrow",
         "minecraft:sponge",
-        "minecraft:sulfur",
-        "minecraft:sulfur_cube_bucket",
         "minecraft:turtle_helmet",
         "minecraft:twisting_vines",
         "minecraft:warped_nylium",
@@ -134,6 +128,7 @@
         "yet-another-minecraft-bingo:simplified/one_of_dead_coral_fan",
         "yet-another-minecraft-bingo:simplified/one_of_diamond_armor",
         "yet-another-minecraft-bingo:simplified/one_of_diamond_tools",
+        "yet-another-minecraft-bingo:simplified/one_of_horse_armor",
         "yet-another-minecraft-bingo:simplified/one_of_nautilus_armor",
         "yet-another-minecraft-bingo:simplified/one_of_pottery_sherd"
     ],
@@ -375,13 +370,14 @@
         "minecraft:wheat",
         "yet-another-minecraft-bingo:simplified/one_of_banner",
         "yet-another-minecraft-bingo:simplified/one_of_banner_pattern",
-        "yet-another-minecraft-bingo:simplified/one_of_explorer_map",
         "yet-another-minecraft-bingo:simplified/one_of_glazed_terracotta",
         "yet-another-minecraft-bingo:simplified/one_of_harness",
         "yet-another-minecraft-bingo:simplified/one_of_leather_armor",
         "yet-another-minecraft-bingo:simplified/one_of_leaves",
         "yet-another-minecraft-bingo:simplified/one_of_stained_glass",
-        "yet-another-minecraft-bingo:simplified/one_of_stained_glass_pane"
+        "yet-another-minecraft-bingo:simplified/one_of_stained_glass_pane",
+        "minecraft:saddle",
+        "minecraft:lead"
     ],
     "D": [
         "minecraft:andesite",
@@ -410,9 +406,9 @@
         "minecraft:cooked_mutton",
         "minecraft:cooked_porkchop",
         "minecraft:copper_ingot",
-        "minecraft:copper_lantern",
         "minecraft:copper_ore",
         "minecraft:copper_torch",
+        "minecraft:copper_lantern",
         "minecraft:crafting_table",
         "minecraft:deepslate",
         "minecraft:diorite",
@@ -429,7 +425,6 @@
         "minecraft:iron_ingot",
         "minecraft:iron_nugget",
         "minecraft:iron_ore",
-        "minecraft:kelp",
         "minecraft:ladder",
         "minecraft:lever",
         "minecraft:mutton",
@@ -487,7 +482,6 @@
             "minecraft:mangrove_log",
             "minecraft:oak_log",
             "minecraft:pale_oak_log",
-            "minecraft:poplar_log",
             "minecraft:spruce_log"
         ],
         [
@@ -499,7 +493,6 @@
             "minecraft:mangrove_planks",
             "minecraft:oak_planks",
             "minecraft:pale_oak_planks",
-            "minecraft:poplar_planks",
             "minecraft:spruce_planks"
         ],
         [
@@ -510,7 +503,6 @@
             "minecraft:jungle_sapling",
             "minecraft:oak_sapling",
             "minecraft:pale_oak_sapling",
-            "minecraft:poplar_sapling",
             "minecraft:spruce_sapling"
         ],
         [
